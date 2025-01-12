@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/bikeGallery": {},
+    "/bikeGallery/seller-auth": {}
+  }
+}
